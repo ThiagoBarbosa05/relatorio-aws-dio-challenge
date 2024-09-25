@@ -1,5 +1,3 @@
-# Relatório AWS Dio Challenge
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 25/09/2024
